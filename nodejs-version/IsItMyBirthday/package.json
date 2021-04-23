@@ -1,0 +1,10 @@
+{
+  "name": "IsItMyBirthday",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Flávio Tassan",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
